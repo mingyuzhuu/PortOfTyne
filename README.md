@@ -1,0 +1,1 @@
+Data processing and cleaning for the Digital Twin of Port of Tyne. Including AIS, weather, and other urban enviroment data from open source API service. They are done in Python using Jupyter Notebook.

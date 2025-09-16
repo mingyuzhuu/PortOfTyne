@@ -4,8 +4,10 @@ Data processing and cleaning for the Digital Twin of Port of Tyne. Including AIS
 The Discrete Event Simulation of the cargo handling process uses Java with the simulation software Anylogic. The Building Energy simulation is done using Rhino and Grasshopper.
 
 *Publications and other documents* 
+* https://doi.org/10.1080/23789689.2025.2526928
 * https://link.springer.com/chapter/10.1007/978-981-99-9014-6_9
 * https://gtr.ukri.org/person/21D65FFE-AEAA-4D0C-A595-9D395FA49EB9
+  
 
 *Acknowledgement* 
 * This work is funded by the Ministry of Defense, UK. Defence Science and Technology Laboratory
